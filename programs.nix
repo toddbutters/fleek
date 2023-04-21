@@ -7,6 +7,7 @@
     programs.direnv.enable = true; 
     programs.starship.enable = true;
 
-  # User specified programs
+  # User specified programs 
+    programs.dircolors.enable = true;
 
 }
