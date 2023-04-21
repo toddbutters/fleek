@@ -1,0 +1,25 @@
+aliases:
+    fleeks: cd /home/todd/.local/share/fleek
+bling: default
+ejected: false
+flakedir: .local/share/fleek
+git:
+    autocommit: false
+    autopull: false
+    autopush: false
+    enabled: false
+name: Fleek Configuration
+packages:
+    - helix
+paths:
+    - $HOME/bin
+    - $HOME/.local/bin
+programs:
+    - dircolors
+shell: bash
+systems:
+    - arch: x86_64
+      hostname: t420
+      os: linux
+      username: todd
+unfree: true
