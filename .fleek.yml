@@ -11,6 +11,7 @@ git:
 name: Fleek Configuration
 packages:
     - helix
+    - neovim
 paths:
     - $HOME/bin
     - $HOME/.local/bin
